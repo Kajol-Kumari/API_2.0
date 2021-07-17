@@ -38,7 +38,7 @@
   opacity: 1;
   padding: 20px 40px 40px 40px;
   margin: 20px;
-  width: auto;
+  min-width: 400px;
   border-radius: 8px;
   display: flex;
   background-color: #016795;
@@ -48,6 +48,8 @@
 .wrapper {
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: row;
 }
 
 .heading {
