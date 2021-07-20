@@ -92,3 +92,9 @@
     transform: rotate(45deg);
   }
 }
+
+@media only screen and (max-width: 600px) {
+  .card {
+    min-width: 100px;
+  }
+}
