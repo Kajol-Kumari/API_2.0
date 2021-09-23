@@ -84,4 +84,4 @@ please see the below screenshot to take the reference of the input and output da
 
 5. Visit the [webiste](https://workshop-frontend.netlify.app/) and see your details added in there 😄
 
-Please feel free to come up with a PR if you think this repo needs any kind of improvement!
+Please feel free to come up with a issue/PR if you think this repository needs any kind of improvement!
