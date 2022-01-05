@@ -1,6 +1,12 @@
 # API_2.0
 This repo contains all the code required for the Postman API 2.0 Workshop 😃
 
+## Tech Stack
+M - MongoDB
+E - Express
+R - ReactJS
+N - NodeJS
+
 ### Project Structure
 
 
