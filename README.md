@@ -43,7 +43,14 @@ Please follow the below steps in order to ee your details at https://workshop-fr
       "password": "",
       "confirm_password": ""
     }
+<<<<<<< HEAD
    ```
+=======
+
+    ```
+    - Click on the `send` button
+    - You should get a status of 200 showing that your request is done correctly
+>>>>>>> 651e47361c7198dff5bb73e7e2e76d34fcf55a08
 
    - Click on the `send` button
    - You should get a status of 200 showing that your request is done correctly
