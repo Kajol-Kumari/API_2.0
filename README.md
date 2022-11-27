@@ -47,8 +47,7 @@ Please follow the below steps in order to ee your details at https://workshop-fr
 
    - Click on the `send` button
    - You should get a status of 200 showing that your request is done correctly
-
-please see the below screenshot to take the reference of the input and output data
+     please see the below screenshot to take the reference of the input and output data
 
 <img src="./assets/register_api.png" alt="register api"/>
 
