@@ -21,6 +21,20 @@ function App() {
       <body className="App-body">
         <DataList />
       </body>
+      <footer className="App-footer">
+        Coded with <span className="sr-only">love</span>
+        <div className="social-links">
+          <a href="https://www.linkedin.com/in/kajol-kumari-73245b166/" target="_blank" rel="noopener noreferrer">
+            <i className="fab fa-linkedin"></i>
+          </a>
+          <a href="https://twitter.com/_Kajol_singh_" target="_blank" rel="noopener noreferrer">
+            <i className="fab fa-twitter"></i>
+          </a>
+          <a href="https://github.com/Kajol-Kumari" target="_blank" rel="noopener noreferrer">
+            <i className="fab fa-github"></i>
+          </a>
+        </div>
+      </footer>
     </div>
   );
 }
