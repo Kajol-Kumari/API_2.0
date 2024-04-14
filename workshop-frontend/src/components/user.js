@@ -4,7 +4,7 @@ class UserDetail extends Component {
   render() {
     return (
       <div className="card">
-        <a className="card-link" href="https://studentsummit21.eventbrite.com/?aff=KK-44"
+        <a className="card-link" href="https://www.postman.com/student-program/"
           target="_blank"
           rel="noopener noreferrer">
           <code>
