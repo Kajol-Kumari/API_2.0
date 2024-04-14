@@ -12,7 +12,7 @@ class DataList extends Component {
   }
 
   componentDidMount() {
-    axios.get('https://api-workshop-backend.herokuapp.com/user/get-details')
+    axios.get('https://api-2-0-5hx9.onrender.com/user/get-details')
       .then(res => {
         console.log(res);
         this.setState({ details: res.data })
