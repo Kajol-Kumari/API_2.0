@@ -20,7 +20,7 @@ The backend and frontend of this repository is hosted separately and you can fin
 
 - Frontend Hosted URL - https://workshop-frontend.netlify.app/
 
-- Backend Hosted URL - https://api-workshop-backend.herokuapp.com/
+- Backend Hosted URL - https://api-2-0-5hx9.onrender.com/
 
 
 ## Add your detail to the live website
@@ -32,7 +32,7 @@ Please follow the below steps in order to ee your details at https://workshop-fr
 
    Please follow the below steps to register yourself -
    - Select the Request type sas `POST`
-   - Put the URL as `https://api-workshop-backend.herokuapp.com/api/register`
+   - Put the URL as `https://api-2-0-5hx9.onrender.com/api/register`
    - Select Body -> JSON(from type dropdown) and fill teh below details in there
    ```
    {
@@ -54,7 +54,7 @@ please see the below screenshot to take the reference of the input and output da
 
    Please follow the below steps to register yourself -
    - Select the Request type sas `POST`
-   - Put the URL as `https://api-workshop-backend.herokuapp.com/api/login`
+   - Put the URL as `https://api-2-0-5hx9.onrender.com/api/login`
    - Select Body -> JSON(from type dropdown) and fill teh below details in there
    ```
    {
@@ -73,7 +73,7 @@ please see the below screenshot to take the reference of the input and output da
 
    Please follow the below steps to register yourself -
    - Select the Request type sas `POST`
-   - Put the URL as `https://api-workshop-backend.herokuapp.com/user/add-user`
+   - Put the URL as `https://api-2-0-5hx9.onrender.com/user/add-user`
    - Select Body -> JSON(from type dropdown) and fill teh below details in there
    ```
    {
