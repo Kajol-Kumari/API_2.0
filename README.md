@@ -25,7 +25,7 @@ The backend and frontend of this repository is hosted separately and you can fin
 
 ## Add your detail to the live website
 
-Please follow the below steps in order to ee your details at https://workshop-frontend.netlify.app/
+Please follow the below steps in order to see your details at https://workshop-frontend.netlify.app/
 
 1. Visit postman web at https://web.postman.co/
 2. Register Yourself 🖥️
